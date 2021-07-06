@@ -6,7 +6,7 @@ Please check out my recent [work](https://github.com/AngelFelipeMP/BERT-tweets-s
 
 You can contact me via [Linkedin](https://www.linkedin.com/in/angel-de-paula/).
 
-
+<img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Simbolo.png" width="100">
 
 <!--
 **AngelFelipeMP/AngelFelipeMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
