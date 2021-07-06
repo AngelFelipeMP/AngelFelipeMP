@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hi visitor!
+
+I am Angel. I am a Ph.D. researcher in the Natural Language Engineering Lab. at Pattern Recognition and Human Language Technologies (PRHLT) Research Center in the Universitat Politècnica de València (UPV).  I've recently worked with Deep Learning and Transformer models to detect and classify Toxic language and Hate Speech.
+
+Please check out my recent [work](https://github.com/AngelFelipeMP/BERT-tweets-sexims-classification), where you can see which technologies I have hands-on experience.
+
+You can contact me via [Linkedin](https://www.linkedin.com/in/angel-de-paula/).
+
+
+
 <!--
 **AngelFelipeMP/AngelFelipeMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
